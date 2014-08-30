@@ -8,14 +8,12 @@
 
 		switch(options.type.toLowerCase()) {
 			case "hipster":
-			case "hipster-latin":
 				url = "http://hipsterjesus.com/api/?paras=";
 				break;
 			case "hipster-centric":
 				url = "http://hipsterjesus.com/api/?type=hipster-centric&paras=";
 				break;
 			case "bacon":
-			case "bacon-meat-and-filler":
 				url = "https://baconipsum.com/api/?type=meat-and-filler&paras=";
 				break;
 			case "bacon-all-meat":
@@ -28,7 +26,6 @@
 				url = "https://jsonp.nodejitsu.com/?callback=?&url=http://baseballipsum.apphb.com/api/?paras=";
 				break;
 			case "pony":
-			case "pony-and-filler":
 				url = "http://ponyipsum.com/api/?type=pony-and-filler&paras=";
 				break;
 			case "all-pony":
@@ -47,7 +44,6 @@
 			var output = "";
 			switch (options.type.toLowerCase()) {
 				case "hipster":
-				case "hipster-latin":
 				case "hipster-centric":
 					output = data.text;
 					break;

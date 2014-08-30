@@ -4,7 +4,7 @@ The ultimate jQuery plugin for all things ipsum.
 
 ## Usage
 
-Ipsum Everything is an awesome plugin developed for choosing and using the perfect placeholder text for your next project.
+Ipsum Everything is an awesome plugin developed for choosing and using the perfect placeholder text for your next project(s).
 
 To use it, plop a copy of the minified script into your HTML...
 

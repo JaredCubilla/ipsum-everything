@@ -1,0 +1,19 @@
+{
+	"name": "ipsum-everything",
+	"version": "0.2.0",
+	"description": "The ultimate jQuery plugin for all things ipsum.",
+	"keywords": ["lorem", "ipsum", "lorem-ipsum", "filler", "text", "bacon", "hipster", "skate", "science", "baseball", "pony"],
+
+	"main": "ipsum-everything.js",
+	"ignore": [
+		".jshintrc",
+		"Gruntfile.js"
+	],
+
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/JaredCubilla/ipsum-everything.git"
+	},
+
+	"license": "MIT"
+}

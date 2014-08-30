@@ -4,7 +4,7 @@
 	"description": "The ultimate jQuery plugin for all things ipsum.",
 	"keywords": ["lorem", "ipsum", "lorem-ipsum", "filler", "text", "bacon", "hipster", "skate", "science", "baseball", "pony"],
 
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"author": {
 		"name": "Jared Cubilla",
 		"url": "https://github.com/JaredCubilla"
